@@ -1,5 +1,0 @@
-Estoy aprendiendo git - será mi primera gran herramienta
-Aprenderé Java, Python y Javascript
-Aprende a usar Docker - sería genial
-Claude
-Antropic
